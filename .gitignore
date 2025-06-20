@@ -1,0 +1,3 @@
+*.txt
+!penting.txt
+/node_modules/
